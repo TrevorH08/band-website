@@ -1,0 +1,21 @@
+.sidebar {
+  text-align: center;
+  width: 30%;
+  float: right;
+  background-color: #b93c1b;
+}
+
+h1.title {
+  text-align: center;
+}
+
+img {
+  height: 100%;
+  Width: 100%;
+  object-fit: contain;
+}
+.albums {
+    float: left;
+    width: 30%;
+}
+
