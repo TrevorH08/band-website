@@ -2,7 +2,12 @@
   text-align: center;
   width: 30%;
   float: right;
+  border: solid black;
   background-color: #b93c1b;
+  padding: 20px;
+  border-width: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
 
 h1.title {
@@ -13,9 +18,16 @@ img {
   height: 100%;
   Width: 100%;
   object-fit: contain;
+  box-sizing: border-box;
 }
 .albums {
     float: left;
     width: 30%;
+    background-color: #b93c1b;
+    border: solid black;
+    border-width: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
